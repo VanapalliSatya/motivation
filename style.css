@@ -1,0 +1,40 @@
+/*body{
+    background-color: black;
+    background-image: url(images/R.png);
+    
+    background-size: 1600px 1100px;
+}*/
+body{
+    background-color: black;
+}
+#container1{
+    background-color: black;
+    width: 610px;
+    height: 535px;
+    padding: 20px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    color: azure;
+    font-weight: bolder;
+    font-size: 2.5rem;
+    text-align: center;
+}
+p{
+    color: #D4ADFC;
+    font-size: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+img{
+    width: 600px;
+    border: 5px solid white;
+}
+#a1{
+    height: 350px;
+}
+
